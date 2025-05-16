@@ -1,5 +1,5 @@
-## Hi there 👋
-<p align="left">Dedicated to providing comprehensive guides, resources, and practical advice to researchers and practitioners in the field of Digital Humanities.</p>
+## Willkommen!👋
+<p align="left">Diese Plattform ist der Bereitstellung umfassender Leitfäden, Ressourcen und praxisorientierter Ratschläge für Forschende und Praktiker im Bereich der Digital Humanities gewidmet.</p>
 
 ###
 
